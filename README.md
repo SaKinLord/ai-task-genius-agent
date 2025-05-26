@@ -37,8 +37,7 @@ This project was built to understand:
 *   **Date Parsing:** `dateparser`, `python-dateutil`
 *   **Environment Management:** `python-dotenv`
 
-## Project Structure 📂
-.
+## Project Structure 📂.
 ├── .gitignore
 ├── task_manager_app.py         # Streamlit frontend application
 ├── task_prioritizer_agent.py   # Langchain agent, tools, and task manager logic
